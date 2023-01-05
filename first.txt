@@ -5,3 +5,4 @@ Gitの練習をしています。
 -commit
 -rm
 -status
+-diff
